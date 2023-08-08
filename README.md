@@ -1,9 +1,9 @@
 # About Me 
->- :godmode: Nikita Yanchenkov
->- :desktop_computer: Backend Developer C++ (Desktop applications, embedded systems, high-load systems)
->- :video_game: Offtop: 3D/2D Artist, gamedev
->- :mortar_board: Information technology, computing systems, system analysis
->- :house_with_garden: Moscow / Russian Federation
+:godmode: Nikita Yanchenkov </br>
+:desktop_computer: Backend Developer C++ (Desktop applications, embedded systems, high-load systems) </br>
+:video_game: Offtop: 3D/2D Artist, gamedev </br>
+:mortar_board: Information technology, computing systems, system analysis </br>
+:house_with_garden: Moscow / Russian Federation </br>
 
 # Technical Skills
 
@@ -25,6 +25,7 @@
 
 [![Static Badge](https://img.shields.io/badge/GMAIL-mail?color=1a73e8&link=https%3A%2F%2Flubuntu.me%2F)](mailto:nekitgoldrush@yandex.ru)
 [![Static Badge](https://img.shields.io/badge/TELEGRAM-mail?color=2CA5E0&link=https%3A%2F%2Flubuntu.me%2F)](https://t.me/Hotline_Dolgopa)
+![Static Badge](https://img.shields.io/badge/MY_SITE-site?color=%2359afc9&link=https%3A%2F%2Fnikiyani.github.io%2Fmy_resume)
 
 <!--
 **NikiYani/NikiYani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
