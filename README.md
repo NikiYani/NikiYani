@@ -1,14 +1,11 @@
-## About Me 
+# About Me 
 >- :godmode: Nikita Yanchenkov
 >- :desktop_computer: Backend Developer C++ (Desktop applications, embedded systems, high-load systems)
 >- :video_game: Offtop: 3D/2D Artist, gamedev
 >- :mortar_board: Information technology, computing systems, system analysis
 >- :house_with_garden: Moscow / Russian Federation
 
- [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekitgoldrush@yandex.ru)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hotline_Dolgopa)
-
-## Technical Skills
+# Technical Skills
 
 ### Programming Languages
 
@@ -17,6 +14,17 @@
   <a href= https://github.com/NikiYani?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
   <a href= https://github.com/NikiYani?tab=repositories > <img width ='64px' src     ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
 </div>
+
+### Operating Systems
+
+![Static Badge](https://img.shields.io/badge/Ubuntu-linux?label=Linux&color=E95420&link=https%3A%2F%2Fhelp.ubuntu.ru%2Fwiki%2Flinux)
+![Static Badge](https://img.shields.io/badge/Lubuntu-linux?label=Linux&color=0068c8&link=https%3A%2F%2Flubuntu.me%2F)
+![Static Badge](https://img.shields.io/badge/Debian-linux?label=Linux&color=d70751&link=https%3A%2F%2Flubuntu.me%2F)
+
+# Connect
+
+[![Static Badge](https://img.shields.io/badge/GMAIL-mail?color=1a73e8&link=https%3A%2F%2Flubuntu.me%2F)](mailto:nekitgoldrush@yandex.ru)
+[![Static Badge](https://img.shields.io/badge/TELEGRAM-mail?color=2CA5E0&link=https%3A%2F%2Flubuntu.me%2F)](https://t.me/Hotline_Dolgopa)
 
 <!--
 **NikiYani/NikiYani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
