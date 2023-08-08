@@ -25,8 +25,10 @@
 
 [![Static Badge](https://img.shields.io/badge/GMAIL-mail?color=1a73e8&link=https%3A%2F%2Flubuntu.me%2F)](mailto:nekitgoldrush@yandex.ru)
 [![Static Badge](https://img.shields.io/badge/TELEGRAM-mail?color=2CA5E0&link=https%3A%2F%2Flubuntu.me%2F)](https://t.me/Hotline_Dolgopa)
-![Static Badge](https://img.shields.io/badge/MY_SITE-site?color=%2359afc9&link=https%3A%2F%2Fnikiyani.github.io%2Fmy_resume)
+[![Static Badge](https://img.shields.io/badge/MY_SITE-site?color=%2359afc9&link=https%3A%2F%2Fnikiyani.github.io%2Fmy_resume)](https://nikiyani.github.io/my_resume)
 
+### Stats:fire:
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikiYani&theme=one-dark-pro&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 <!--
 **NikiYani/NikiYani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
