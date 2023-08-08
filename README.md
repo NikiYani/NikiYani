@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About Me:
+>- :boy: Nikita Yanchenkov
+>- :desktop_computer: Backend Developer
+>- :man_student: Information technology, computing systems, system analysis
+>- :house_with_garden: Moscow / Russian Federation
+>
+ [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekitgoldrush@yandex.ru)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hotline_Dolgopa)
+
+
 <!--
 **NikiYani/NikiYani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
