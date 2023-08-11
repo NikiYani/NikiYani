@@ -26,6 +26,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikiYani&theme=one-dark-pro&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikiYani&layout=compact&langs_count=8&card_width=500&theme=noctis_minimus&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
 # Connect
 
 [![Static Badge](https://img.shields.io/badge/GMAIL-mail?color=1a73e8&link=https%3A%2F%2Flubuntu.me%2F)](mailto:nekitgoldrush@yandex.ru)
