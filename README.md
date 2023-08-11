@@ -28,6 +28,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikiYani&layout=compact&langs_count=8&card_width=500&theme=noctis_minimus&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/NikiYani?theme=nord&border=2&radius=25)](https://leetcode.com/NikiYani)
+
 # Connect
 
 [![Static Badge](https://img.shields.io/badge/GMAIL-mail?color=1a73e8&link=https%3A%2F%2Flubuntu.me%2F)](mailto:nekitgoldrush@yandex.ru)
