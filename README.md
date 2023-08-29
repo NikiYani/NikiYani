@@ -48,9 +48,10 @@
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="fedora" width="40" height="40"/> </a> 
 </div>
 
-### IDE
+### IDE and code editors
 
 <div>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vs-code" width="40" height="40"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a> 
 </div>
 
@@ -73,6 +74,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://putty.org.ru/download.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/> </a> 
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
+  <a href="https://replit.com/~" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Replit-Dark.svg" alt="replit" width="40" height="40"/> </a> 
 </div>
 
 # Stats
