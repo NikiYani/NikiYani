@@ -3,9 +3,9 @@
 # About Me 
 :desktop_computer: Backend Developer C++ (Desktop applications, embedded systems, high-load systems) </br>
 :books: Teacher at Netology courses </br>
-:video_game: Offtop: 3D/2D Artist, gamedev </br>
 :mortar_board: Information technology, computing systems, system analysis </br>
 :house_with_garden: Moscow / Russian Federation </br>
+:video_game: Offtop: 3D/2D Artist, gamedev </br>
 
 # Technical Skills
 
