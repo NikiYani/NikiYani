@@ -1,7 +1,7 @@
 ![profile_git.png](/assets/profile_git.png)
 
 # About Me 
-:desktop_computer: Backend Developer C++ (Desktop applications, embedded systems, high-load systems) </br>
+:desktop_computer: Backend Developer (Golang) </br>
 :books: Teacher at Netology courses </br>
 :mortar_board: Information technology, computing systems, system analysis </br>
 :house_with_garden: Moscow / Russian Federation </br>
@@ -11,7 +11,8 @@
 
 ### Programming Languages
 
-<div>
+<div>  
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
