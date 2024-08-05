@@ -1,7 +1,7 @@
 ![profile_git.png](/assets/profile_git.png)
 
 # About Me 
-:desktop_computer: Backend Developer Golang (previously C++) </br>
+:desktop_computer: Golang Backend Developer (previously C++) </br>
 :books: Teacher at Netology courses </br>
 :mortar_board: Information technology, computing systems, system analysis </br>
 :house_with_garden: Moscow / Russian Federation </br>
